@@ -7,4 +7,4 @@ by me and a random ai I don't remember
 ![CachyVoid](https://raw.githubusercontent.com/Fhraze/wallpapers/master/CachyVoid.jpg)
 - ### Dracula
 by [jackomighty](https://github.com/dracula/wallpaper/issues/49)
-![CachyVoid](https://raw.githubusercontent.com/Fhraze/wallpapers/master/CachyVoid.jpg)
+![CachyVoid](https://raw.githubusercontent.com/Fhraze/wallpapers/master/CachyDracula.png)
