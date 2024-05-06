@@ -1,6 +1,7 @@
 # A repo for my favorite wallpapers
 ![Eye_of_the_Universe](https://raw.githubusercontent.com/Fhraze/wallpapers/master/OuterWildsEye.jpg)
 ![Eye_of_the_Universe](https://raw.githubusercontent.com/Fhraze/wallpapers/master/OuterWildsUW.jpg)
+
 # CachyOS
 - ### CachyVoid
 by me and a random ai I don't remember
@@ -8,3 +9,7 @@ by me and a random ai I don't remember
 - ### Dracula
 by [jackomighty](https://github.com/dracula/wallpaper/issues/49)
 ![CachyVoid](https://raw.githubusercontent.com/Fhraze/wallpapers/master/CachyDracula.png)
+
+# Phone
+![trans-phone](https://raw.githubusercontent.com/Fhraze/wallpapers/master/trans-phone.png)
+![nice](https://raw.githubusercontent.com/Fhraze/wallpapers/master/nice.jpg)
