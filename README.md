@@ -13,3 +13,6 @@ by [jackomighty](https://github.com/dracula/wallpaper/issues/49)
 # Phone
 ![trans-phone](https://raw.githubusercontent.com/Fhraze/wallpapers/master/trans-phone.png)
 ![nice](https://raw.githubusercontent.com/Fhraze/wallpapers/master/nice.jpg)
+![bna-black-wallpaper](https://raw.githubusercontent.com/Fhraze/wallpapers/master/bna-black-wallpaper.jpg)
+![neko](https://raw.githubusercontent.com/Fhraze/wallpapers/master/neko.webp)
+![arch-linux-phone-wallpaper.jpg](https://raw.githubusercontent.com/Fhraze/wallpapers/master/arch-linux-phone-wallpaper.jpg)
