@@ -2,6 +2,9 @@
 ![Eye_of_the_Universe](https://raw.githubusercontent.com/Fhraze/wallpapers/master/OuterWildsEye.jpg)
 ![Eye_of_the_Universe](https://raw.githubusercontent.com/Fhraze/wallpapers/master/OuterWildsUW.jpg)
 ![Astolfo](https://raw.githubusercontent.com/Fhraze/wallpapers/master/astolfo-minimal.png)
+![samus-aran](https://raw.githubusercontent.com/Fhraze/wallpapers/master/samus-aran.jpg)
+![samus-aran-armor](https://raw.githubusercontent.com/Fhraze/wallpapers/master/samus-aran-armor.jpg)
+![samus-aran-blast](https://raw.githubusercontent.com/Fhraze/wallpapers/master/samus-aran-blast.jpg)
 
 # CachyOS
 - ### CachyVoid
